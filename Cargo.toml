@@ -1,0 +1,15 @@
+[workspace]
+
+members = [
+    "ch01/vs_ruby_demo",
+    "ch02/answer_sum_demo",
+    "ch02/temp_demo",
+    "ch02/ref_oper_demo",
+    "ch02/fizz_buzz_demo",
+    "ch02/lexical_scope_demo",
+    "ch02/func_ptr_demo",
+    "ch02/closure_func_demo",
+    "ch02/expr_demo",
+    "ch02/basic_type_demo",
+    "ch02/structure_type_demo",
+]
