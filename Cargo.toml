@@ -16,4 +16,7 @@ members = [
     "ch03/type_generics_demo",
     "ch03/type_trait_obj_demo",
     "ch04/comm_mem_manager_demo",
+    "ch05/ownership_demo",
+    "ch05/borrow_demo",
+    "ch05/trait_lifetime_demo",
 ]
