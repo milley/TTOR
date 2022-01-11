@@ -12,4 +12,7 @@ members = [
     "ch02/expr_demo",
     "ch02/basic_type_demo",
     "ch02/structure_type_demo",
+    "ch03/type_overview_demo",
+    "ch03/type_generics_demo",
+    "ch03/type_trait_obj_demo",
 ]
