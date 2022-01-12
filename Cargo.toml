@@ -19,4 +19,9 @@ members = [
     "ch05/ownership_demo",
     "ch05/borrow_demo",
     "ch05/trait_lifetime_demo",
+    "ch06/raw_identifier_demo",
+    "ch06/closure_impl_demo",
+    "ch06/closure_ownership_demo",
+    "ch06/closure_fnptr_demo",
+    "ch06/iterator_type_demo",
 ]
