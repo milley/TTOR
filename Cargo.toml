@@ -24,4 +24,7 @@ members = [
     "ch06/closure_ownership_demo",
     "ch06/closure_fnptr_demo",
     "ch06/iterator_type_demo",
+    "ch07/oo_type_demo",
+    "ch07/design_pattern_demo",
+    "ch07/raii_demo",
 ]
