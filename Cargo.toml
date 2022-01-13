@@ -29,4 +29,6 @@ members = [
     "ch07/raii_demo",
     "ch08/simple_str_demo",
     "ch08/simple_container_demo",
+    "ch09/simple_assert_demo",
+    "ch09/simple_result_demo",
 ]
