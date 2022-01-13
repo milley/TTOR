@@ -27,4 +27,6 @@ members = [
     "ch07/oo_type_demo",
     "ch07/design_pattern_demo",
     "ch07/raii_demo",
+    "ch08/simple_str_demo",
+    "ch08/simple_container_demo",
 ]
