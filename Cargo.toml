@@ -31,4 +31,8 @@ members = [
     "ch08/simple_container_demo",
     "ch09/simple_assert_demo",
     "ch09/simple_result_demo",
+    "ch10/simple_regex_demo",
+    "ch10/static_hashmap",
+    "ch10/static_hashmap_2021",
+    "ch10/csv_challenge",
 ]
